@@ -1,0 +1,2 @@
+# wordcount
+riff wordcount function
